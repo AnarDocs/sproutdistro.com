@@ -3,7 +3,11 @@ Mirror of Sprout Distro website
 
 Original location: [www.sproutdistro.com](https://www.sproutdistro.com/)
 
-Archvied from: https://web.archive.org/web/https://www.sproutdistro.com/
+Website is now back up. Archived: 12 March 2024
+
+`wget -mpEk https://www.sproutdistro.com/`
+
+Archvied from: [https://web.archive.org/web/https://www.sproutdistro.com/](https://web.archive.org/web/https://www.sproutdistro.com/)
 
 Using the Wayback Machine Downloader: [https://github.com/hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
 
